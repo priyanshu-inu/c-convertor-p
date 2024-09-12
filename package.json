@@ -1,0 +1,26 @@
+{
+  "name": "c-convertor-p",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshu-inu/c-convertor-p.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Priyanshu karki",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/priyanshu-inu/c-convertor-p/issues"
+  },
+  "homepage": "https://github.com/priyanshu-inu/c-convertor-p#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
